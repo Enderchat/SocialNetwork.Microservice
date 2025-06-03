@@ -1,0 +1,3 @@
+<ItemGroup>
+  <ProjectReference Include="..\SocialNetwork.Domain\SocialNetwork.Domain.csproj" />
+</ItemGroup>
